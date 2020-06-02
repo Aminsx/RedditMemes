@@ -3,7 +3,7 @@ import { randomNumber, buildMeme } from './utils';
 const subreddits = {
   en: ['memes', 'dankmemes', 'meirl'],
   es: ['memesesp', 'memesenespanol', 'spanishmeme'],
-  fr: ['FrenchMemes'],
+  fr: ['FrenchMemes', 'rance'],
   ru: ['CommunismMemes', 'YouSeeComrade'],
   de: ['GermanMemes'],
   it: ['italianmemes'],
